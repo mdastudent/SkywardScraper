@@ -1,0 +1,38 @@
+Mark & Aidan
+
+Game Ideas:
+Snake
+Tetris
+Pong (2 player)
+Flappy bird
+Tower of Hanoi
+
+Game site like jackbox that can take text input
+
+Others:
+Skyward grade scraper and GPA calculator
+Online sticky ntoes
+
+What excites me:
+doing a full project
+self learning and researching
+colaborationg with a partner
+
+Challenges we will face:
+Making the api
+Hosting the api
+Calling the api
+Parsing api json data
+Scarping skyward
+Trying to work with skyward cookies
+Maybe using a headless browser
+Parsing class name to determine is ap or preap
+Calculating gpa
+Creating a good ui
+
+
+Decided: Skyward grade scraper
+2 views:
+Login Screen
+GPA/Grades Screen
+Uniform background for the 2 views - Skyward gray/blue
